@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "64d1926f-7548-46f3-8c51-4a8f71ce2e00",
+		"name": "JSONPlaceholder API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16591257"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
